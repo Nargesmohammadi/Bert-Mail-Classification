@@ -1,7 +1,7 @@
 # Bert Mail Classification
 
 
-This repository contains code for a spam detection model using BERT (Bidirectional Encoder Representations from Transformers) in TensorFlow. The model is trained on a dataset of spam and ham (non-spam) messages.
+This repository contains code for a spam detection model using BERT (Bidirectional Encoder Representations from Transformers) in TensorFlow. BERT is a powerful pre-trained model developed by Google that has achieved state-of-the-art performance on various natural language processing tasks. The model is trained on a dataset of spam and ham (non-spam) messages.
 
 ## Dataset
 
